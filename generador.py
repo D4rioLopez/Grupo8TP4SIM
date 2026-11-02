@@ -1,3 +1,5 @@
+#los valores por defecto son los del trabajo práctico podrian ser parametrizados
+#x0, a, c y m mostrados en una panatalla
 class Generador:
     """Generador congruencial lineal con los parámetros del trabajo práctico."""
 
